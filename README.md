@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=rect&color=0:e55d87,100:5fc3e4&height=30)
 <h2>👋 Hello World!</h2>
 
-I'm Jinhyeon Kwon, a master's student studying Computer Science!
+I'm Jinhyeon Kwon, a master's student, advised by professor <a href="https://maga33.github.io/">Seunghoon Hong</a>.
 <br/>
 My research interests span the broad field of generative modeling.
 <br/>
